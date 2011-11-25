@@ -1,0 +1,6 @@
+*.o
+*~
+getc_locked
+getc_locked_function
+getc_unlocked
+getc_unlocked_function
